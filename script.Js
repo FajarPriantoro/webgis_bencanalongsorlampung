@@ -8,7 +8,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Nama file GeoJSON disesuaikan 100% dengan yang ada di repositori GitHub kamu
-var namaFileGeoJSON = "kerawanan_longsor.geojson"; 
+var namaFileGeoJSON = "Kerawanan_Longsor.geojson"; 
 var geojsonData = null; 
 var layerGeoJSON = null; 
 
